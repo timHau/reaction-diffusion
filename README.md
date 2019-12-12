@@ -28,6 +28,7 @@ it. If you encounter problems feel free to open an issue.
 
 ## Screenshots
 ![01](./img/01.png)
+![02](./img/02.png)
 
 
 ### additional Resources
