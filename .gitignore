@@ -1,2 +1,4 @@
 /bin/*
 /bin/data/
+/react_diffuse.xcodeproj/*
+!/react_diffuse.xcodeproj/project.pbxproj
